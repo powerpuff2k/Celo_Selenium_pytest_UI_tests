@@ -1,7 +1,7 @@
 # celo_ui_test
 This is a repository created to write UI tests for celo staging environment
 
-These tests are automated using elenium webdriver with python and have used pytest framework. 
+These tests are automated using selenium webdriver with python and have used pytest framework. 
 
 Technologies used:
 
